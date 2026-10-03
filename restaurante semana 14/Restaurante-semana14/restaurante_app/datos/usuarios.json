@@ -1,0 +1,22 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Ana",
+        "apellido": "Administradora",
+        "nombre_usuario": "admin",
+        "contrasena": "1234",
+        "correo_electronico": "ana.admin@restaurante.com",
+        "fecha_nacimiento": "1990-05-15",
+        "rango": "Administrador"
+    },
+    {
+        "id_usuario": 2,
+        "nombre": "Carmen",
+        "apellido": "Solis",
+        "nombre_usuario": "cajera",
+        "contrasena": "4321",
+        "correo_electronico": "carmen@cajera.com",
+        "fecha_nacimiento": "1997-05-29",
+        "rango": "Cajero"
+    }
+]
